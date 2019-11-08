@@ -42,7 +42,7 @@ Contoh :
 [Penjelasan program 1](url)
 - mencari keuntungan  selama 8 bulan berjalannya usaha. dengan soal sebagai berikut
 ### Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya  dengan modal awal 100 jt. Pada bulan pertama sampai dengan bulan ke dua belum mendapatkan laba. Pada bulan ke tiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke lima pendapatan meningkat 5%. Selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
-- Pertama, masukan nilai modal usahanya misalkan awal / a = 100000000
+- Pertama, masukan nilai modal usahanya misalkan awal / a = 100.000.000
 ( pada mengetikan di idle python jangan masukan huruf titik ( . ) akan mengakibatkan error ).
 - input _sum_ = 0, untuk mengetahui hasil dari bulan ke bulan.
 - b=0, digunakan untuk pernyataan mulainya bulan dari 0, jika di ganti akan berbeda juga hasil awalnya sibulan.
