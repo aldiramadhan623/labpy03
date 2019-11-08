@@ -1,4 +1,6 @@
-# labpy03
+> **labpy03**
+
+
 [**Penjelasan latihan 1**](url)
 
 - Masukan nilai N bernilai 5.
@@ -40,6 +42,19 @@ Contoh :
 [Penjelasan program 1](url)
 - mencari keuntungan  selama 8 bulan berjalannya usaha. dengan soal sebagai berikut
 ### Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya  dengan modal awal 100 jt. Pada bulan pertama sampai dengan bulan ke dua belum mendapatkan laba. Pada bulan ke tiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke lima pendapatan meningkat 5%. Selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
-- Pertama, masukan nilai modal usahanya misalkan awal / a = 100.000.000
-( pada mengetikan di idle python jangan masukan huruf titik ( . ) akan mengakibatkan error )
-- 
+- Pertama, masukan nilai modal usahanya misalkan awal / a = 100000000
+( pada mengetikan di idle python jangan masukan huruf titik ( . ) akan mengakibatkan error ).
+- input _sum_ = 0, untuk mengetahui hasil dari bulan ke bulan.
+- b=0, digunakan untuk pernyataan mulainya bulan dari 0, jika di ganti akan berbeda juga hasil awalnya sibulan.
+- Untuk menghitung laba masukan besarnya presentase laba perbulannya.
+- Masukan perintah _for i in_ menampilkan jumlahnya laba yang telah dihitung.
+- Perintah _sum = sum+1_ untuk mengetahui hasil naiknya laba dari bulan ke bulan
+Dengan contoh :
+
+![Screenshot (48)](https://user-images.githubusercontent.com/56834389/68448784-43031400-0217-11ea-8f0b-9143ecd1db2a.png)
+
+- Jika sudah benar jalankan perintah tersebut dan kalian akan mengetahui hasil laba usaha dari bulan pertama sampai dengan bulan ke-8, hasilnya sebagai berikut
+
+![Screenshot (49)](https://user-images.githubusercontent.com/56834389/68448875-9c6b4300-0217-11ea-8dfd-cae6764d774f.png)
+
+> **Program telah selesai**
