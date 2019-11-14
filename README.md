@@ -18,6 +18,9 @@ Dengan contoh :
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/56834389/68423609-f4348a80-01d4-11ea-9382-8e4576cf05bb.png)
 
+![FC1](https://user-images.githubusercontent.com/56834389/68847742-bd450400-0701-11ea-8e09-0a9f3706a472.jpg)
+
+
 [**Penjelasan latihan 2**](url)
 - Input _max_ = 0, yang berfungsi sebagai mencari nilai tertinggi atau menghentikan pencarian nilai jika angka 0 dimasukan saat nilai dimasukan secara manual.
 - Masukan perintah _while True_ atau bisa disebut perulangan yang tak terhitung.
@@ -38,6 +41,8 @@ Contoh :
 Contoh :
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/56834389/68425054-d87eb380-01d7-11ea-8e6b-41a9a14f84f5.png)
+
+![FlowChart Lat 2](https://user-images.githubusercontent.com/56834389/68847929-05fcbd00-0702-11ea-8119-30eec0adb866.jpg)
 
 [Penjelasan program 1](url)
 - mencari keuntungan  selama 8 bulan berjalannya usaha. dengan soal sebagai berikut
